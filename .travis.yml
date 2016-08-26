@@ -1,0 +1,61 @@
+sudo: required
+dist: trusty
+language: ruby
+
+before_install:
+before_install:
+- gem install asciidoctor -v 1.5.2
+- gem install tilt
+- sudo pip install git+https://github.com/gitenberg-dev/gitberg
+- sudo pip install pillow
+- sudo pip install cssutils
+- sudo pip install docutils
+- sudo pip install roman
+- sudo pip install git+https://github.com/gitenberg-dev/pg-epubmaker
+script:
+- VERSION=`ruby -e "require 'yaml'; meta = YAML.load_file('metadata.yaml'); puts meta['_version'];"`
+- git clone https://github.com/gitenberg-dev/asciidoctor-htmlbook.git
+- sudo pip install -r asciidoctor-htmlbook/gitberg-machine/requirements.txt
+
+- /usr/bin/python -c "from gitenberg import travis; travis.build_epub()"
+- ebook-convert book.epub book.mobi
+- xvfb-run ebook-convert book.epub book.pdf
+branches:
+  only:
+  - master
+notifications:
+  webhooks:
+    urls:
+      - https://unglue.it/api/travisci/webhook
+    on_success: always
+    on_failure: never
+    on_start: never
+deploy:
+  skip_cleanup: true
+  provider: releases
+  api_key:
+    secure: Qa06cyX28DPp3TVb21JoflO0BGQrnDMjTp8MOMUl2wWCnI6HG1jrKWN8zB9ssDXvkNUK1MOtCiK6yNYAZbFfeddKtILE9k/H4biG5jKQi9QazoLJCNRUE7xzOQc8VmaZtunmRxSiW9tWJEo9oh3jcuqNl+QHuCH+pkj7RePTXVvfX/cKw8CaBKol+w6sHINaaT1Mr6Q7IZdQjkiaYLkxXQRfMmUe51+WDemnxkzkZUGCWCfars8P4hBWF61K2+rMECqnITt9ZQgfNlxyKSYlokEOd+2/3Sl+oU0jsFnLMxYsC42eVXxj78PbSSVtaFBmpL/672g2+fjFtHPfeJEuV32KIZujIf10qvxpn5tX+ctEtweP4WI8Ycwu1rSrkuT3WfxTAB4B+iI2rbN8QgNRuqU88S3t5782cKIMfiehxCSstHjE6YbcranKgIsyyQvfidY26pcCdsk5IUaIn5eAsLuhC3Oj9hTm5JUGUZfTGWkaLMHEJxWzuSi4KgpVUAMe7UzdGprhZz+U1wL8RZRJs3mCrJnQZe2ahdqVxJ47tgAfWEp/1jdiWnwpjb+ary130y3qpvOuApl4MslpVLnjpC35wMclFP0lHDe4is76wqwgjep8tn3ESvSxyMsZODuR9ROIOLfElM7IykDZRJxCHiOxb6by8eBslFnFX3QoTGg=
+  file:
+    - book.epub
+    - book.mobi
+    - book.pdf
+  "on":
+    repo: GITenberg/Theodore-Roosevelt-and-His-Times--A-Chronicle-of-the-Progressive-Movement_2724
+addons:
+  apt:
+    packages:
+    - xsltproc
+    - xvfb
+    - calibre
+    - python-pip
+    - git
+    - python-dev
+    - libjpeg-dev
+    - libpng-dev
+    - libfreetype6
+    - libfreetype6-dev
+    - zlib1g-dev
+    - python-lxml
+    - libxml2-dev
+    - libxslt1-dev
+    - tidy
