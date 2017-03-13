@@ -1,5 +1,8 @@
 _repo: Theodore-Roosevelt-and-His-Times--A-Chronicle-of-the-Progressive-Movement_2724
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howland, Harold
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1007'
     url: http://www.gutenberg.org/2009/agents/1007
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2724#Theodore-Roosevelt-and-His-Times--A-Chronicle-of-the-Progressive-Movement
 gutenberg_issued: '2001-07-01'
 gutenberg_type: Text
 identifiers:
