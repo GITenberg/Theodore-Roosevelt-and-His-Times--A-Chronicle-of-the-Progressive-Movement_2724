@@ -15,7 +15,7 @@ Author: Harold Howland
 Editor: Allen Johnson
 
 Posting Date: January 8, 2009 [EBook #2724]
-Release Date: July, 2001
+[Last updated: April 18, 2015]
 
 Language: English
 
@@ -81,7 +81,7 @@ If it was righteous, he fought for it; if it was evil, he hurled the
 full weight of his finality against it. He never capitulated, never
 sidestepped, never fought foul. He carried the fight to the enemy.
 
-His first fight was for health and bodily vigor. It began, at the age
+His first fight was for health and bodily vigor. It began at the age
 of nine. Physically he was a weakling, his thin and ill-developed body
 racked with asthma. But it was only the physical power that was wanting,
 never the intellectual or the spiritual. He owed to his father, the
@@ -235,7 +235,7 @@ he found a young Irishman who had been a gang leader in the
 rough-and-tumble politics of the East Side. Driven by the winter wind
 of man's ingratitude from Tammany Hall into the ranks of the opposite
 party, Joe Murray was at this time one of the lesser captains in "the
-Twenty-first" Roosevelt soon came to like him. He was "by nature as
+Twenty-first." Roosevelt soon came to like him. He was "by nature as
 straight a man, as fearless, and as staunchly loyal," said Roosevelt,
 "as any one whom I have ever met, a man to be trusted in any position
 demanding courage, integrity, and good faith." The liking was returned
@@ -395,7 +395,7 @@ which first waked him "to a dim and partial understanding of the fact
 that the courts were not necessarily the best judges of what should be
 done to better social and industrial conditions."
 
-When, a quarter, of a century later, Roosevelt left the Presidency and
+When, a quarter of a century later, Roosevelt left the Presidency and
 became Contributing Editor of The Outlook, almost his first contribution
 to that journal was entitled "A Judicial Experience." It told the story
 of this law and its annulment by the court. Mr. William Travers Jerome
@@ -1715,7 +1715,7 @@ of law were once quite sufficient to regulate the accumulation and
 distribution of wealth. Since the industrial changes which have so
 enormously increased the productive power of mankind, these regulations
 are no longer sufficient. The process of the creation of great corporate
-fortunes has aroused much antagonism; but much of this, antagonism has
+fortunes has aroused much antagonism; but much of this antagonism has
 been without warrant. There have been, it is true, abuses connected
 with the accumulation of wealth; yet no fortune can be accumulated in
 legitimate business except by conferring immense incidental benefits
@@ -2305,7 +2305,7 @@ All their respect was his.
 
 It was after he became President that his greatest opportunity occurred
 to put into effect his convictions about the industrial problem. In
-1909. there was a strike which brought about a complete stoppage of work
+1909 there was a strike which brought about a complete stoppage of work
 for several months in the anthracite coal regions. Both operators and
 workers were determined to make no concession. The coal famine became
 a national menace as the winter approached. "The big coal operators
@@ -2584,7 +2584,7 @@ most influential labor organizations in the country."
 
 It should be recorded for the sake of avoiding misapprehension that
 Roosevelt's denunciation of Moyer and Haywood was not based on the
-assumption that they were guilty of the death of the murdered' Governor,
+assumption that they were guilty of the death of the murdered Governor,
 but was predicated on their general attitude and conduct in the
 industrial conflicts in the mining fields.
 
@@ -2873,7 +2873,7 @@ serpent sometimes had to be called into play to circumvent the adroit
 maneuvering of these interests and their servants in Congress. In 1907,
 for example, Senator Charles W. Fulton of Oregon obtained an amendment
 to the Agricultural Appropriation Bill forbidding the President to set
-aside any additional National Forests in six Northwestern States.. But
+aside any additional National Forests in six Northwestern States. But
 the President and the Forest Service were ready for this bold attempt
 to deprive the public of some 16,000,000 acres for the benefit of land
 grabbers and special interests. They knew exactly what lands ought to
@@ -3039,7 +3039,7 @@ at the correct distance inland, the indentations made by these arms of
 the sea, should leap boldly across them, at the agreed distance from
 the points of the headlands. This would give Canada the heads of several
 great inlets and direct access to the sea far north of the point where
-the Canadian coast had, always been assumed to end. Canada and the
+the Canadian coast had always been assumed to end. Canada and the
 United States were equally resolute in upholding their claims. It looked
 as if the matter would end in a deadlock.
 
@@ -3075,7 +3075,7 @@ decision was made, fully upheld Roosevelt's position.
 
 The decision of the Commission was, with slight immaterial
 modifications, in favor of the United States. Lord Alverstone voted
-against his Canadian than colleagues. It was a just decision, as most
+against his Canadian colleagues. It was a just decision, as most
 well-informed Canadians knew at the time. The troublesome question was
 settled; the time-honored friendship of two great peoples had suffered
 no interruption; and Roosevelt had secured for his country its just
@@ -3642,7 +3642,7 @@ proper perspective.
 
 
 
-CHAPTER XIII. THE TAFT ADMINISTRATION
+CHAPTER XII. THE TAFT ADMINISTRATION
 
 In the evening of that election day in 1904 which saw Roosevelt made
 President in his own right, after three years of the Presidency given
@@ -3765,7 +3765,7 @@ important than the reduction of rates in one or two schedules of the
 tariff.
 
 A second disaster to the Taft Administration came in the famous
-Ballinger-Pinchot controversy. Louis R. Glavis, who bad served as a
+Ballinger-Pinchot controversy. Louis R. Glavis, who had served as a
 special agent of the General Land Office to investigate alleged frauds
 in certain claims to coal lands in Alaska, accused Richard Ballinger,
 the Secretary of the Interior, of favoritism toward those who were
@@ -3950,7 +3950,7 @@ equally good service."
 
 These generalizations Roosevelt accompanied by specific recommendations.
 They included proposals for publicity of corporate affairs; prohibition
-of the use of corporate funds, for political purposes; governmental
+of the use of corporate funds for political purposes; governmental
 supervision of the capitalization of all corporations doing an
 interstate business; control and supervision of corporations and
 combinations controlling necessaries of life; holding the officers and
@@ -3970,7 +3970,7 @@ revolutionary or extreme. But there was much that disturbed the
 reactionaries who were thinking primarily in terms of property and only
 belatedly or not at all of human rights. The Bourbons in the Republican
 party and their supporters among the special interests "viewed
-with, alarm" this frank attack upon their intrenched privileges. The
+with alarm" this frank attack upon their intrenched privileges. The
 Progressives, however, welcomed with eagerness this robust leadership.
 The breach in the Republican party was widening with steadily
 accelerating speed.
@@ -4527,7 +4527,7 @@ dissolution of trusts and combinations, on the ground that combination
 in the business field was not only inevitable but necessary and
 desirable for the promotion of national and international efficiency. It
 condemned the evils of inflated capitalization and unfair competition;
-and it proposed, in order to eliminate those is evils while
+and it proposed, in order to eliminate those evils while
 preserving the unquestioned advantages that flow from combination, the
 establishment of a strong Federal commission empowered and directed
 to maintain permanent active supervision over industrial corporations
@@ -5534,7 +5534,7 @@ was closely associated with Roosevelt on "The Outlook"; and after the
 African hunting trip met him at Khartum and went with him on his tour of
 the capitals of Europe.
 
-A small volume by Charles G. Washburn,"Theodore Roosevelt, the Logic of
+A small volume by Charles G. Washburn, "Theodore Roosevelt, the Logic of
 His Career" (1916), contains the interpretation of a long-time friend
 and sincere admirer.
 
